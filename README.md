@@ -1,4 +1,4 @@
 # Netclicks
-все о сериалах
+Все о сериалах
 
 https://dmitryluzko.github.io/netclicks/
